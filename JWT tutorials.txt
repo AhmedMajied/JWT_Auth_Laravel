@@ -1,0 +1,2 @@
+https://appdividend.com/2018/02/24/laravel-jwt-authentication-tutorial/
+https://medium.com/mesan-digital/tutorial-5-how-to-build-a-laravel-5-4-jwt-authentication-api-with-e-mail-verification-61d3f356f823

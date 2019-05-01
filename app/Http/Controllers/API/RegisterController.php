@@ -9,7 +9,6 @@ use Validator;
 use JWTFactory;
 use JWTAuth;
 use App\User;
-//use Response;
 
 class RegisterController extends Controller
 {
